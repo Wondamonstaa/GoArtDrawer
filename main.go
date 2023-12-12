@@ -2,10 +2,8 @@ package main
 
 /*
 Name: Kiryl Baravikou
-UIN: 656339218
 Project 3: Go Interfaces
 Date: 11/30/2023
-Professor: Jon Solworth
 Description:
 The goal of the following project is to create a program that will draw the specified shapes on the screen.
 The colors are specified in the colors' matrix. The program will be able to draw the following shapes:
